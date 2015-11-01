@@ -1,1 +1,1 @@
-# rtBot
+# rt-bot
